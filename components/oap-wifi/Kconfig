@@ -1,0 +1,10 @@
+menu "OAP WIFI"
+		
+config OAP_AP_PASSWORD
+	string "AccessPoint password"
+	default "duckduckgo"
+	help
+		Password to authenticate with the WiFi Access Point.
+		Minimum 8 characters.
+				
+endmenu

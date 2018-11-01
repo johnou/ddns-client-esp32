@@ -1,0 +1,12 @@
+{
+	"wifi": {
+		"ssid": "",
+		"password": "",
+		"ip": "",
+		"gw": "",
+		"netmask": ""
+	},
+	"ddns" : {
+		"url" : ""
+	}
+}
